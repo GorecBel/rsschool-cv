@@ -1,6 +1,6 @@
-#**Anton Postnikov**
+# **Anton Postnikov**
 
-##**Contact**
+## **Contact**
 
 **Address:** country Russia, Belgorod
 
@@ -12,24 +12,24 @@
 
 **Discord:** Антон(@gorecbel)
 
-##**About Me**
+## **About Me**
 
 I work in 3 support lines, but I lack programming and code reading skills. Responsibilities include reading logs, working with kibana and in the database, maintenance and administration of the customer's software module. I cope at the expense of analytics, logic and product knowledge. After completing this training, I want to gain knowledge that will help in my work. Or they will allow you to develop in a new quality.
 
-##**Skills**
+## **Skills**
 
 * I can write basic queries in SQL and mongo
 * Reading logs
 * Incident analysis
 * Deployment of releases
 
-##**Code Example**
+## **Code Example**
 ```
 function multiply(a, b){
  return a * b
 }
 ```
-##**Work Experience**
+## **Work Experience**
 
 2010-2020
 
@@ -39,11 +39,11 @@ Multi-level support
 
 3lv support
 
-##**Education**
+## **Education**
 
 Secondary special education - Accountant 2001-2004
 
-##**Language**
+## **Language**
 
 * Russian - Native
 * English - A 1 reading, writing with a dictionary
